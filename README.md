@@ -1,4 +1,4 @@
-<img width="1146" height="586" alt="Screenshot 2026-10-03 204152" src="https://github.com/user-attachments/assets/b62709dd-5b50-4a1c-8b85-041d506fcba3" /># CODE-ALPHA-PROJECTS
+# CODE-ALPHA-PROJECTS
 CodeAlpha Data Science Internship projects: 1.Unemployment Analysis: EDA &amp; COVID-19 impact visualization.  2. Car Price Prediction: Feature engineering &amp; Random Forest regression.  3.Sales Prediction: Linear regression for ad spend ROI.  Tech Stack: Python, Pandas, Scikit-learn, Seaborn, Matplotlib.
 task-3
 <img width="1146" height="586" alt="Screenshot 2026-10-03 204152" src="https://github.com/user-attachments/assets/81234d7e-3810-408a-a8b8-ebbc87a22fdd" />
